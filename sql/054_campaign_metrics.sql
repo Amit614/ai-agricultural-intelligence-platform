@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.campaign_metrics(campaign_id STRING,sent BIGINT,delivered BIGINT,opened BIGINT) USING DELTA;

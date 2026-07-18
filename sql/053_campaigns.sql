@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.campaigns(campaign_id STRING,name STRING,channel STRING,segment STRING,status STRING) USING DELTA;
