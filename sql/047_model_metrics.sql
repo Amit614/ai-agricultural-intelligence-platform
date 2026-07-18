@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.model_metrics(model_name STRING,accuracy DOUBLE,precision DOUBLE,recall DOUBLE,evaluated_at TIMESTAMP) USING DELTA;

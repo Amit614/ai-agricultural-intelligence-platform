@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.model_registry(model_name STRING,version STRING,stage STRING,registered_at TIMESTAMP) USING DELTA;

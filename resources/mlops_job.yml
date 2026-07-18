@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    mlops_pipeline:
+      name: mlops-model-lifecycle
