@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.image_predictions(image_id STRING,label STRING,confidence DOUBLE,predicted_at TIMESTAMP) USING DELTA;

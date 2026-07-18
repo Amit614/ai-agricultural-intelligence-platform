@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.image_metadata(image_id STRING,path STRING,uploaded_at TIMESTAMP) USING DELTA;

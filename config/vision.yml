@@ -1,0 +1,2 @@
+model_name: crop-disease-classifier
+batch_size: 32
