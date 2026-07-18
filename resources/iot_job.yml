@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    sensor_stream:
+      name: sensor-stream-ingestion

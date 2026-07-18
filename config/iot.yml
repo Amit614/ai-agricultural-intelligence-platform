@@ -1,0 +1,4 @@
+stream:
+  source: kafka
+  topic: agri.sensor.telemetry
+checkpoint: dbfs:/checkpoints/iot
