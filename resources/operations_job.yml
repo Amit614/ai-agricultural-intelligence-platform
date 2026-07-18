@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    operations_center:
+      name: operations-center

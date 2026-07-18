@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.model_drift(model_name STRING,drift_score DOUBLE,detected_at TIMESTAMP) USING DELTA;

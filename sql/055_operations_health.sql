@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.operations_health(component STRING,status STRING,event_time TIMESTAMP) USING DELTA;
