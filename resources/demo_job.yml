@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    hackathon_demo:
+      name: hackathon-demo
