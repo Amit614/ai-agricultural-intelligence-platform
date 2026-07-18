@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.ai_recommendations(field_id STRING,category STRING,recommendation STRING,confidence DOUBLE,generated_at TIMESTAMP) USING DELTA;

@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    recommendation_engine:
+      name: ai-recommendation-engine
