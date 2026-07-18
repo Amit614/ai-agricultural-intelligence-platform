@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.dim_farmer(farmer_id STRING,name STRING,village STRING,land_hectares DOUBLE,preferred_language STRING) USING DELTA;

@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.farmer_crop_history(farmer_id STRING,crop STRING,season STRING,year INT) USING DELTA;

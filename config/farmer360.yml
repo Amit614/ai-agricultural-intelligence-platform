@@ -1,0 +1,2 @@
+master_table: agri.gold.dim_farmer
+refresh: weekly

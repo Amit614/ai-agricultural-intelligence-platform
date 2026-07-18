@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    farmer360:
+      name: farmer360-profile-job
