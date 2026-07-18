@@ -1,0 +1,6 @@
+{
+  "farm_id":"F001",
+  "name":"Demo Farm",
+  "location":"Bengaluru",
+  "fields":[{"field_id":"Field-1","name":"North","area_hectares":12.5}]
+}

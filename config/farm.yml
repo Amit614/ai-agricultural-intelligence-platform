@@ -1,0 +1,3 @@
+farm:
+  coordinate_system: WGS84
+  default_area_unit: hectares
