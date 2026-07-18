@@ -1,0 +1,7 @@
+{
+  "title":"Field Summary",
+  "widgets":[
+    {"type":"metric","name":"Average Temperature"},
+    {"type":"table","name":"Crop Recommendations"}
+  ]
+}

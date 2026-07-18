@@ -1,0 +1,9 @@
+genie:
+  space_name: Agricultural Intelligence
+  catalog: agri
+  schema: gold
+  default_tables:
+    - weather_hourly
+    - field_fertility
+    - crop_recommendations
+    - disease_alerts

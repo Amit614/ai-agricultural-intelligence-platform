@@ -1,0 +1,5 @@
+resources:
+  genie_spaces:
+    agriculture:
+      name: Agricultural Intelligence
+      description: Natural language analytics for agriculture

@@ -1,0 +1,10 @@
+name: agriculture
+entities:
+  - weather
+  - soil
+  - crop
+  - disease
+metrics:
+  - avg_temperature
+  - avg_moisture
+  - disease_count
