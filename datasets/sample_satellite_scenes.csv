@@ -1,0 +1,3 @@
+scene_id,provider,date,cloud_cover
+S2_001,Sentinel-2,2026-07-01,8.4
+L8_001,Landsat-8,2026-07-02,11.2
