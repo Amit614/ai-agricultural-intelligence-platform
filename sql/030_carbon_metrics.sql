@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.carbon_metrics(field_id STRING,emissions DOUBLE,sequestration DOUBLE,score INT) USING DELTA;

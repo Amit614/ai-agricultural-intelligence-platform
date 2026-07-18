@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.sustainability_report(field_id STRING,report_year INT,score INT) USING DELTA;

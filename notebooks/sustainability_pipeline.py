@@ -1,0 +1,1 @@
+print('Sustainability pipeline placeholder')

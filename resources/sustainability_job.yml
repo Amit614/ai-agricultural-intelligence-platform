@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    sustainability:
+      name: sustainability-intelligence
