@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    logistics_optimizer:
+      name: logistics-optimizer

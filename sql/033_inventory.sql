@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.inventory(warehouse STRING,commodity STRING,quantity_tonnes DOUBLE) USING DELTA;

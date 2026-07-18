@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.shipments(shipment_id STRING,source STRING,destination STRING,distance_km DOUBLE,quantity_tonnes DOUBLE) USING DELTA;
