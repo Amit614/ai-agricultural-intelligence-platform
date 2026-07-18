@@ -1,0 +1,8 @@
+bundle:
+  name: ai-agricultural-intelligence-platform
+
+targets:
+  dev:
+    mode: development
+  prod:
+    mode: production
