@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.insurance_policy(farmer_id STRING,crop STRING,insured_amount DOUBLE,premium DOUBLE) USING DELTA;

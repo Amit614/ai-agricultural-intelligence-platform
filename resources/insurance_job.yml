@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    insurance_risk:
+      name: insurance-risk-intelligence

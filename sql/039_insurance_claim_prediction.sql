@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.insurance_claim_prediction(farmer_id STRING,risk_band STRING,predicted_probability DOUBLE) USING DELTA;
