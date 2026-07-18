@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    governance:
+      name: governance-security-observability

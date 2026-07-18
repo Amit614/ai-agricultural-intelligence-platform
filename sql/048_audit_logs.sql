@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.audit_logs(event_time TIMESTAMP,user STRING,action STRING,resource STRING) USING DELTA;

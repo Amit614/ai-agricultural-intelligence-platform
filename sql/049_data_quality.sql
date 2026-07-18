@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.data_quality(dataset STRING,rule STRING,status STRING,checked_at TIMESTAMP) USING DELTA;
