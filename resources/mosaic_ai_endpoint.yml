@@ -1,0 +1,4 @@
+resources:
+  model_serving_endpoints:
+    farm_advisor:
+      name: farm_advisor_endpoint

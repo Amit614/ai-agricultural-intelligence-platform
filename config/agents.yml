@@ -1,0 +1,4 @@
+agents:
+  farm_advisor:
+    knowledge_registry: enabled
+    rag: enabled
