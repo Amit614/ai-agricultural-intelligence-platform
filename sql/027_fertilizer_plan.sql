@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.fertilizer_plan(field_id STRING,recommendation STRING,generated_at TIMESTAMP) USING DELTA;

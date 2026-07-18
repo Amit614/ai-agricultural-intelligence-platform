@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    fertilizer_advisor:
+      name: fertilizer-advisor

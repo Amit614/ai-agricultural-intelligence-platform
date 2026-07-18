@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.soil_nutrients(field_id STRING,nitrogen DOUBLE,phosphorus DOUBLE,potassium DOUBLE,soil_ph DOUBLE) USING DELTA;
