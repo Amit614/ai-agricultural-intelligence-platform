@@ -1,0 +1,4 @@
+resources:
+  vector_search_indexes:
+    agri_knowledge:
+      name: agri_knowledge_index

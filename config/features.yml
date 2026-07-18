@@ -1,0 +1,3 @@
+feature_tables:
+  weather: agri.gold.weather_features
+  soil: agri.gold.soil_features
