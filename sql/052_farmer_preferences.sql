@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.farmer_preferences(farmer_id STRING,language STRING,notifications BOOLEAN) USING DELTA;
