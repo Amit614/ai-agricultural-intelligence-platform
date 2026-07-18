@@ -1,0 +1,8 @@
+resources:
+  jobs:
+    production_pipeline:
+      name: production-reference-pipeline
+      tasks:
+        - task_key: feature_materialization
+        - task_key: model_training
+        - task_key: model_serving
