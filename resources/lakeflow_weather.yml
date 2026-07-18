@@ -1,0 +1,7 @@
+resources:
+  pipelines:
+    weather:
+      name: weather-lakeflow
+      channel: CURRENT
+      catalog: agri
+      schema: silver

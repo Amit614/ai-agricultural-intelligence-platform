@@ -1,0 +1,7 @@
+expectations:
+  temperature:
+    min: -80
+    max: 70
+  humidity:
+    min: 0
+    max: 100
