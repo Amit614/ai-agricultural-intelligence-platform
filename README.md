@@ -1,11 +1,3 @@
-# AI Agricultural Intelligence Platform
+# AI Agricultural Intelligence Platform v1.0 RC1
 
-Enterprise AI Agricultural Intelligence Platform built on Databricks.
-
-## Quick Start
-
-```bash
-python -m venv .venv
-pip install -r requirements-dev.txt
-pytest
-```
+Release Candidate overview.
