@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS agri.gold.v_kpi_summary AS SELECT * FROM agri.gold.farm_economics;

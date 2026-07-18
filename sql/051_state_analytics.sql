@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.state_analytics(state STRING,yield DOUBLE,profit DOUBLE,sustainability DOUBLE,risk STRING) USING DELTA;

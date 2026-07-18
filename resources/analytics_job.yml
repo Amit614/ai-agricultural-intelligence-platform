@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    executive_dashboard:
+      name: executive-ai-dashboard
