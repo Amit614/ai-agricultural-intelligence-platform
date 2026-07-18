@@ -1,0 +1,6 @@
+providers:
+  - name: open-meteo
+    type: api
+  - name: imd
+    type: api
+refresh_minutes: 30
