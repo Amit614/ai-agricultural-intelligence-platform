@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    pest_intelligence:
+      name: pest-intelligence-job

@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.pest_knowledge(crop STRING,pest STRING,treatment STRING) USING DELTA;

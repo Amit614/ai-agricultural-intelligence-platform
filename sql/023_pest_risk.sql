@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.pest_risk(field_id STRING,pest STRING,risk STRING,event_time TIMESTAMP) USING DELTA;
