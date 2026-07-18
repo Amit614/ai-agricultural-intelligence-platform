@@ -1,0 +1,6 @@
+bundle:
+  name: ai-agricultural-intelligence
+targets:
+  dev: {}
+  test: {}
+  prod: {}

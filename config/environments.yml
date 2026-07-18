@@ -1,0 +1,6 @@
+dev:
+  workspace: dev
+test:
+  workspace: test
+prod:
+  workspace: prod
