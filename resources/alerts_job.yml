@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    alerts:
+      name: agri-alert-engine

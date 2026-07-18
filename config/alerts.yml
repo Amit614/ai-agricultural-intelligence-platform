@@ -1,0 +1,2 @@
+channels: [SMS,EMAIL,PUSH,WHATSAPP]
+default_channel: SMS

@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.alerts(category STRING,severity STRING,message STRING,channel STRING,event_time TIMESTAMP) USING DELTA;
