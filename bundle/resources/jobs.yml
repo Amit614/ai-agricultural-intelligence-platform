@@ -1,0 +1,8 @@
+resources:
+  jobs:
+    daily_pipeline:
+      name: daily-agri-pipeline
+      tasks:
+        - task_key: ingest
+          notebook_task:
+            notebook_path: /Workspace/notebooks/ingest

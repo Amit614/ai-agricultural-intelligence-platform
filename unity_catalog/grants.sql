@@ -1,0 +1,1 @@
+GRANT USE SCHEMA ON SCHEMA agri_gold TO `analysts`;
