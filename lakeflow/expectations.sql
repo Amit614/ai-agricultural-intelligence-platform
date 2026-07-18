@@ -1,0 +1,1 @@
+CONSTRAINT valid_soil EXPECT (soil_moisture BETWEEN 0 AND 100);

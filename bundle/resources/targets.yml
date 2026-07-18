@@ -1,0 +1,5 @@
+targets:
+  dev:
+    workspace: ${var.dev_workspace}
+  prod:
+    workspace: ${var.prod_workspace}

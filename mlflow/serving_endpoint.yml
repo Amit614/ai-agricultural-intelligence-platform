@@ -1,0 +1,3 @@
+endpoint:
+  name: agri-advisor-serving
+  model: agri_advisor@Champion
