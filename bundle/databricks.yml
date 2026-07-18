@@ -1,0 +1,7 @@
+bundle:
+  name: ai-agricultural-intelligence
+include:
+  - resources/*.yml
+targets:
+  dev: {}
+  prod: {}

@@ -1,0 +1,3 @@
+pipeline:
+  name: agri-lakeflow
+  edition: ADVANCED

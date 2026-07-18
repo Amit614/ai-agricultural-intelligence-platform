@@ -1,0 +1,2 @@
+dimensions: [farm,crop]
+measures: [yield,profit]

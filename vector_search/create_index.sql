@@ -1,0 +1,1 @@
+CREATE VECTOR INDEX IF NOT EXISTS agri_vs_idx ON agri.gold.knowledge(chunk_embedding);
