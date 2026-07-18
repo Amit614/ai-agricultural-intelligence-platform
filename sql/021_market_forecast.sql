@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.market_forecast(commodity STRING,forecast_price DOUBLE,forecast_date DATE) USING DELTA;

@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    market_ingestion:
+      name: market-price-ingestion

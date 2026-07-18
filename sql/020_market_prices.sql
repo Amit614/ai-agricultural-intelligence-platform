@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.market_prices(commodity STRING,market STRING,price DOUBLE,trade_date DATE) USING DELTA;
