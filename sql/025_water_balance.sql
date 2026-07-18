@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.water_balance(field_id STRING,et DOUBLE,soil_moisture DOUBLE) USING DELTA;

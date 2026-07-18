@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.irrigation_schedule(field_id STRING,recommendation STRING,run_date DATE) USING DELTA;

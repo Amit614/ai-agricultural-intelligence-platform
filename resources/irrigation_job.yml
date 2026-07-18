@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    irrigation_advisor:
+      name: irrigation-advisor
