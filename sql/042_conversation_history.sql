@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.conversation_history(session_id STRING,role STRING,message STRING,event_time TIMESTAMP) USING DELTA;

@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    conversational_advisor:
+      name: conversational-farm-advisor
