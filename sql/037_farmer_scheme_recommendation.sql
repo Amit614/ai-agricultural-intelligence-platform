@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.farmer_scheme_recommendation(farmer_id STRING,scheme STRING,recommended_at TIMESTAMP) USING DELTA;

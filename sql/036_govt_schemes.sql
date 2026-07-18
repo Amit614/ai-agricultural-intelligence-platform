@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.govt_schemes(scheme STRING,category STRING) USING DELTA;
