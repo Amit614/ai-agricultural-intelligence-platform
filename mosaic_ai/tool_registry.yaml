@@ -1,0 +1,5 @@
+tools:
+  weather:
+    description: Weather lookup
+  market:
+    description: Commodity price lookup

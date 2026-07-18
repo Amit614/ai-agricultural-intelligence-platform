@@ -1,0 +1,10 @@
+bundle:
+  name: ai-agricultural-intelligence
+variables:
+  catalog:
+    default: agri
+targets:
+  dev:
+    default: true
+    workspace:
+      host: ${var.dev_workspace}
