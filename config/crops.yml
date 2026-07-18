@@ -1,0 +1,5 @@
+crops:
+  - name: rice
+    season: kharif
+  - name: wheat
+    season: rabi
