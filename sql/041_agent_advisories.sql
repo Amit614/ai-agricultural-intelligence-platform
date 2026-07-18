@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.agent_advisories(field_id STRING,category STRING,message STRING,priority INT,generated_at TIMESTAMP) USING DELTA;

@@ -1,0 +1,2 @@
+max_parallel_agents: 8
+strategy: priority

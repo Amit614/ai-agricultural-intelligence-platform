@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    agent_orchestrator:
+      name: agent-orchestrator
