@@ -1,0 +1,4 @@
+resources:
+  jobs:
+    integration_sync:
+      name: enterprise-integrations
