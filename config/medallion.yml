@@ -1,0 +1,5 @@
+catalog: agri
+schemas:
+  bronze: raw
+  silver: curated
+  gold: analytics

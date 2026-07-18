@@ -1,0 +1,8 @@
+resources:
+  jobs:
+    bronze_ingestion:
+      name: bronze_ingestion
+      tasks:
+        - task_key: ingest
+          notebook_task:
+            notebook_path: ../notebooks/bronze_ingestion.py

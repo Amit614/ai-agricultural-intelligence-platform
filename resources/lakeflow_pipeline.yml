@@ -1,0 +1,10 @@
+resources:
+  pipelines:
+    agri_pipeline:
+      name: agri_pipeline
+      catalog: agri
+      schema: bronze
+      continuous: false
+      libraries:
+        - notebook:
+            path: ../notebooks/bronze_ingestion.py

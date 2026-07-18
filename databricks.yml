@@ -1,8 +1,9 @@
 bundle:
   name: ai-agricultural-intelligence-platform
-
+include:
+  - resources/*.yml
 targets:
   dev:
     mode: development
-  prod:
-    mode: production
+    workspace:
+      host: https://<workspace-url>
