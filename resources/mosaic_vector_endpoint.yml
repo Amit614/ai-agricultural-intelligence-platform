@@ -1,0 +1,4 @@
+resources:
+  vector_search_endpoints:
+    agri_vector:
+      name: agri-vector-endpoint

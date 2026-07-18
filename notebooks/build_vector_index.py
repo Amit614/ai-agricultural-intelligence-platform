@@ -1,0 +1,1 @@
+print('Build Vector Search index from Knowledge Registry')

@@ -1,0 +1,3 @@
+embedding_endpoint: databricks-gte-large
+chat_endpoint: databricks-meta-llama
+vector_index: agri_knowledge_index

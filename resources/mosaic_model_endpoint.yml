@@ -1,0 +1,4 @@
+resources:
+  model_serving_endpoints:
+    agri_llm:
+      name: agri-llm-endpoint
