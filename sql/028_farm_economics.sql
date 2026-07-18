@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.farm_economics(field_id STRING,revenue DOUBLE,profit DOUBLE,roi DOUBLE) USING DELTA;

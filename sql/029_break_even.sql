@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS agri.gold.break_even(field_id STRING,break_even_price DOUBLE) USING DELTA;
